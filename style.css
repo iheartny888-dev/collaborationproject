@@ -11,24 +11,22 @@ a {
 
 table {
     border-collapse: collapse;
-    width: 100%; 
+    width: 80%; 
 }
 
 th {
-background-color: #009879; /* Example green */
-color: white;
-text-align: left;
-padding: 12px 15px;
-font-weight: bold;
+    background-color: #d2b48c; /* Example green */
+    color: black;
+    text-align: left;
+    padding: 12px 15px;
+    font-weight: bold;
 }
 
 
-img {
-    border: 2px solid #d2b48c;
-}
 
 .meatballs {
     width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 body {
     padding: 10%;
