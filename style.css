@@ -1,12 +1,40 @@
 * {
-
+   font-family: "Helvetica Neue", Arial, sans-serif;
 }
+
 p {
-
-    font-size: 16em;
+    font-size: 1em;
+}
+a {
+    text-decoration: none;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+th {
+background-color: #009879; /* Example green */
+color: white;
+text-align: left;
+padding: 12px 15px;
+font-weight: bold;
+}
+
+
+img {
+    border: 2px solid #d2b48c;
+}
+
+.meatballs {
+    width: 100%;
+}
 body {
     padding: 10%;
+    background-color: #A0A0A0;
 }
 
+h1 {
+    margin: 0 auto;
+}
